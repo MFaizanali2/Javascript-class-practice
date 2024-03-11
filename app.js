@@ -50,11 +50,23 @@
             // days.splice(5,0,"SATURDAY");
             // days.splice(7,2);
             // console.log(days);
-            var birds = ["macaw", "eagle", "hen", "ostrich", "peacock"]
-            var copyall = birds.slice();
+
+            // var birds = ["macaw", "eagle", "hen", "ostrich", "peacock"]
+            // var copyall = birds.slice();
             // var copyfromcertainindex = birds.slice(1,4);
             // console.log(birds, copyfromcertainindex);
 
-            var fish = ["king fisher", "dolphin", "shark", "wheel"];
-            var pet = birds.concat(fish);
-            console.log(pet.includes("dolphin"),birds)   
+            // var fish = ["king fisher", "dolphin", "shark", "wheel"];
+            // var pet = birds.concat(fish);
+            // console.log(pet.includes("dolphin"),birds)   
+
+            var player = {
+            firstname: "Faizan",
+            lastname: "Ali",
+            age: 25,
+            phoneno: "0987543445789",
+            $1:"anything",
+            }
+            console.log(player);
+            var fullname = player.firstname + " " + player.lastname;
+            console.log(fullname);
