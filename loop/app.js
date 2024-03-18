@@ -28,8 +28,8 @@
 //     console.log("2 x",i,"=",2*i);
 
 // }
-var i = 0;
-while (i < 5) {
-    alert(i);
-    i++;
-}
+// var i = 0;
+// while (i < 5) {
+//     alert(i);
+//     i++;
+// }
