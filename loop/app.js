@@ -35,6 +35,6 @@
 // }
 
 
-for (let i = 0; i<=4; i++) {
-    console.log("faizi");
+for (let count = 0; count <= 4; count++) {
+    console.log("apna collage");
 }
