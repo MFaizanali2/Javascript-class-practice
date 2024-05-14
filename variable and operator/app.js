@@ -7,6 +7,6 @@
 // var c = a / b;
 // console.log(c);
 
-var a = 40;
-var b = 30;
+var a = 30;
+var b = "30";
 console.log(a == b);
